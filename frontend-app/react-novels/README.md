@@ -1,12 +1,29 @@
-# React + Vite
+# app_novelas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es parte de un sistema que convierte novelas en texto a formato de audio para su posterior reproducción en streaming u offline.
 
-Currently, two official plugins are available:
+Actualmente, esta parte del proyecto se encarga del **scraping de novelas** desde la web RoyalRoad. Extrae capítulos de novelas traducidas al español, incluyendo el título y el contenido del capítulo, para luego almacenarlos en una base de datos conectada a una aplicación web desarrollada con Django.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades
 
-## Expanding the ESLint configuration
+- Scraping de capítulos de novelas en español desde RoyalRoad.
+- Almacenamiento automático en base de datos (vía Django).
+- Preparación de los datos para su futura conversión a audio.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tecnologías utilizadas
+
+- Python
+- Selenium
+- Django
+- Google Cloud SQL (para la base de datos)
+- Google Cloud Storage (para archivos de audio)
+- ReactJS.
+- Tailwind CSS.
+
+## Estado del proyecto
+
+🛠️ En desarrollo — actualmente trabajando en el sistema de scraping y la integración con Django.
+
+## Autor
+
+Diego Di Stefano
