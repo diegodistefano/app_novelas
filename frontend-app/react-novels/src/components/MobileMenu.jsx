@@ -27,6 +27,9 @@ export default function MobileMenu() {
               <Link to="/novels" onClick={toggleMenu}>📚 Novelas</Link>
             </li>
             <li>
+              <Link to="/scrap" onClick={toggleMenu}>🎧 Cargar novela</Link>
+            </li>
+            <li>
               <Link to="/chapters" onClick={toggleMenu}>🎧 Capítulos</Link>
             </li>
           </ul>
