@@ -1,9 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router'
+import { useParams } from "react-router-dom";
 import Finder from './Finder'
 import MobileMenu from './MobileMenu'
 
 export default function Header() {
+  const { id: novelId } = useParams();
   return (
     <header>
       <MobileMenu />
@@ -15,8 +17,7 @@ export default function Header() {
           >
             Novelas App
           </Link>
-          <Link
-            to="/novels/:id/chapters"
+          <Link to={`/novels/${novelId}/chapters/`}
             className="bg-cyan-700 hover:bg-cyan-600 text-white px-5 py-2 rounded-lg font-semibold shadow-md transition-colors duration-300"
           >
             Capítulos

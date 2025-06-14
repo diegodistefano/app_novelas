@@ -3,10 +3,10 @@ import axios from "axios";
 import {BrowserRouter, Route, Routes} from 'react-router'; 
 import {Toaster} from 'react-hot-toast';
 import Header from './components/Header';
-import ChapterAudio from './components/ChapterAudio';
 import NovelsList from './components/NovelsList';
 import ChaptersList from './components/ChaptersList';
 import ScrapForm from './components/ScrapForm';
+import ChapterAudio from "./components/ChapterAudio";
 
 function App() {
 
@@ -23,7 +23,7 @@ function App() {
           <Route path="/scrap/" element={<ScrapForm />} />
           <Route path="/novels/:id/" element={<ChaptersList />} />
           <Route path="/novels/:novelId/chapters/:chapterId" element={<ChapterAudio />} />
-          {/* <Route path="/search" element={<SearchNovel />} /> */}
+          <Route path="/novels/:novelId/chapters/:chapterId/audio" element={<ChapterAudio />} />
 
         </Routes>
         <Toaster />

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { getChaptersByNovel, getChapter, getNovel } from "../api/api";
+import { getChaptersByNovel, postChapterURL} from "../api/api";
 import { useParams, useNavigate } from "react-router-dom";
 
 
@@ -8,7 +8,8 @@ import { useParams, useNavigate } from "react-router-dom";
 export default function ChaptersList() {
 
     const [chapters, setChapters] = useState([])
-
+    const [status, setStatus] = useState([])
+    const [loading, setLoading] = useState(false);
     const { id: novelId } = useParams();
     const navigate = useNavigate();
 
@@ -20,6 +21,21 @@ export default function ChaptersList() {
     useEffect(() => {
         loadChapters()
     }, []);
+
+
+    // const handleChapterClick = async (id, chapter_url) => {
+    //     try {
+    //         setLoading(true);
+    //         const response = await postChapterURL(novelId, id, chapter_url);
+    //         setStatus("Procesando capítulo...");
+    //         setStatus(response.data.msg || "Capítulo procesado correctamente");
+    //         navigate(`chapters/${id}/`);
+    //     } catch (err) {
+    //         setStatus("Error: " + (err.response?.data?.error || err.message));
+    //     } finally {
+    //         setLoading(false);
+    //     }
+    // };
 
 
     return (
@@ -42,12 +58,12 @@ export default function ChaptersList() {
                 </div>
 
                 <button
-                onClick={() => navigate(`chapters/${chapter.id}/`)}
-                // onClick={() => handleChapter(chapter.id)}
-                className="mt-6 bg-cyan-700 hover:bg-cyan-600 text-white font-semibold py-3 rounded-lg shadow-md transition-colors duration-300 w-full"
-                aria-label={`Escuchar capítulo ${chapter.name}`}
+                    onClick={() => navigate(`chapters/${chapter.id}/`)}
+                    // onClick={() => handleChapterClick(chapter.id, chapter.chapter_url)}
+                    className="mt-6 bg-cyan-700 hover:bg-cyan-600 text-white font-semibold py-3 rounded-lg shadow-md transition-colors duration-300 w-full"
+                    aria-label={`Escuchar capítulo ${chapter.name}`}
                 >
-                Escuchar capítulo
+                    Escuchar capítulo
                 </button>
             </div>
             ))}
