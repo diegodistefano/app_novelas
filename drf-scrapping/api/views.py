@@ -34,7 +34,7 @@ class ChapterViewSet(viewsets.ModelViewSet):
     serializer_class = ChapterSerializer
     def get_queryset(self):
         novel_id = self.kwargs.get('novel_id')
-        return Chapter.objects.filter(novel_id=novel_id)
+        return Chapter.objects.filter(novel_id=novel_id).order_by('id')
 
 
 @api_view(['GET'])

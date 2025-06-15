@@ -21,21 +21,24 @@ export default function NovelsList() {
 
     return (
       <div className="mt-8 px-4 sm:px-6 max-w-md mx-auto">
-        <h1 className="text-3xl font-extrabold text-cyan-900 mb-6">
+        <h1 className="text-3xl font-extrabold text-cyan-500 mb-6">
           Novelas disponibles
         </h1>
-
-        <div className="grid grid-cols-1 gap-6">
+        <div className="grid grid-cols-2 gap-6">
           {novels.map((novel) => (
             <div
               key={novel.id}
               className="bg-cyan-700 rounded-lg shadow-lg p-6 flex flex-col "
             >
               <div>
-                <p className="text-cyan-300 text-sm mb-1">ID: {novel.id}</p>
-                <p className="text-white font-semibold text-lg">
-                  Novela:<br/> <span className="font-bold">{novel.name}</span>
+                <p className="font-bold text-xl text-cyan-200 w-full h-[4rem] overflow-hidden text-ellipsis whitespace-wrap">
+                  <span>{novel.name}</span>
                 </p>
+                <img
+                  src={novel.image_url}
+                  alt={`Imagen de ${novel.name}`}
+                  style={{ width: "300px", height: "200px", marginTop: "10px" }}
+                />
               </div>
 
               <button

@@ -10,25 +10,36 @@ export default function ScrapForm() {
     const [loading, setLoading] = useState(false);
 
     const handleSubmit = async (e) => {
-        e.preventDefault();
-        setLoading(true);   
-        setStatus("Procesando...");
-        try {
-        const response = await postScrapeURL(url);
+      e.preventDefault();
+      setLoading(true);
+      setStatus("Procesando...");
+
+      try {
+        // Limpiar la url almacenada en el estado (no el DOM directamente)
+        let valor = url.replace(/https:\/\/www\.royalroad\.com/gi, "").trim();
+
+        // Opcional: actualizar el input con el valor limpio
+        setUrl(valor);
+
+        // Usar el valor limpio para enviar la petición
+        const response = await postScrapeURL(valor);
+
         setStatus(response.data.msg || "Scraping completado");
-        } catch (err) {
+      } catch (err) {
         setStatus("Error: " + (err.response?.data?.error || err.message));
-        } finally {
-      setLoading(false); 
-    }
+      } finally {
+        setLoading(false);
+      }
     };
+
 
   return (
     <div className="p-6 max-w-lg mx-auto bg-white rounded-xl shadow-md space-y-4">
       <h2 className="text-xl font-bold text-cyan-800">Ingresar URL de la novela</h2>
       
-      <form onSubmit={handleSubmit} className="flex flex-col gap-4">
+      <form id="scrap-form" onSubmit={handleSubmit} className="flex flex-col gap-4">
         <input
+          id="scrap-input"
           type="text"
           placeholder="https://www.royalroad.com/fiction/..."
           value={url}

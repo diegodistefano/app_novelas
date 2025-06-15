@@ -22,52 +22,36 @@ export default function ChaptersList() {
         loadChapters()
     }, []);
 
-
-    // const handleChapterClick = async (id, chapter_url) => {
-    //     try {
-    //         setLoading(true);
-    //         const response = await postChapterURL(novelId, id, chapter_url);
-    //         setStatus("Procesando capítulo...");
-    //         setStatus(response.data.msg || "Capítulo procesado correctamente");
-    //         navigate(`chapters/${id}/`);
-    //     } catch (err) {
-    //         setStatus("Error: " + (err.response?.data?.error || err.message));
-    //     } finally {
-    //         setLoading(false);
-    //     }
-    // };
-
-
     return (
         <div className="mt-8 px-4 sm:px-6 max-w-md mx-auto">
-        <h1 className="text-3xl font-extrabold text-cyan-900 mb-6">
-            Capítulos disponibles
-        </h1>
+            <h1 className="text-3xl font-extrabold text-cyan-900 mb-6">
+                Capítulos disponibles
+            </h1>
 
-        <div className="grid grid-cols-1 gap-6">
-            {chapters.map((chapter) => (
-            <div
-                key={chapter.id}
-                className="bg-cyan-900 rounded-lg shadow-lg p-6 flex flex-col justify-between"
-            >
-                <div>
-                <p className="text-cyan-300 text-sm mb-1">ID: {chapter.id}</p>
-                <p className="text-white font-semibold text-lg">
-                    Capítulo: <span className="font-bold">{chapter.name}</span>
-                </p>
-                </div>
-
-                <button
-                    onClick={() => navigate(`chapters/${chapter.id}/`)}
-                    // onClick={() => handleChapterClick(chapter.id, chapter.chapter_url)}
-                    className="mt-6 bg-cyan-700 hover:bg-cyan-600 text-white font-semibold py-3 rounded-lg shadow-md transition-colors duration-300 w-full"
-                    aria-label={`Escuchar capítulo ${chapter.name}`}
+            <div className="grid grid-cols-1 gap-6">
+                {chapters.map((chapter) => (
+                <div
+                    key={chapter.id}
+                    className="bg-cyan-900 rounded-lg shadow-lg p-6 flex flex-col justify-between"
                 >
-                    Escuchar capítulo
-                </button>
+                    <div>
+                    <p className="text-cyan-300 text-sm mb-1">ID: {chapter.id}</p>
+                    <p className="text-white font-semibold text-lg">
+                        Capítulo: <span className="font-bold">{chapter.name}</span>
+                    </p>
+                    </div>
+
+                    <button
+                        onClick={() => navigate(`chapters/${chapter.id}/`)}
+                        // onClick={() => handleChapterClick(chapter.id, chapter.chapter_url)}
+                        className="mt-6 bg-cyan-700 hover:bg-cyan-600 text-white font-semibold py-3 rounded-lg shadow-md transition-colors duration-300 w-full"
+                        aria-label={`Escuchar capítulo ${chapter.name}`}
+                    >
+                        Escuchar capítulo
+                    </button>
+                </div>
+                ))}
             </div>
-            ))}
-        </div>
         </div>
 
     )

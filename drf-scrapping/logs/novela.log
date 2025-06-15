@@ -260,3 +260,248 @@ DETAIL:  Key (novel_url)=() already exists.
 2025-06-14 14:08:09,157 - ERROR - ❌ Error procesando novela https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1: duplicate key value violates unique constraint "api_novel_novel_url_key"
 DETAIL:  Key (novel_url)=() already exists.
 
+2025-06-14 14:14:40,610 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:14:40,610 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 14:14:41,941 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 14:14:41,957 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:14:46,048 - ERROR - ❌ Error procesando novela https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1: duplicate key value violates unique constraint "api_novel_novel_url_key"
+DETAIL:  Key (novel_url)=() already exists.
+
+2025-06-14 14:14:51,696 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:14:51,696 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 14:14:52,982 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 14:14:52,982 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:14:57,070 - ERROR - ❌ Error procesando novela https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1: duplicate key value violates unique constraint "api_novel_novel_url_key"
+DETAIL:  Key (novel_url)=() already exists.
+
+2025-06-14 14:19:17,266 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-14 14:19:30,623 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-14 14:19:35,454 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-14 14:20:10,089 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:10,089 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 14:20:11,411 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 14:20:11,411 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:15,361 - INFO - 📖 Novela encontrada: Unfathomablesenior
+2025-06-14 14:20:15,865 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:20,293 - WARNING - ⚠️ El botón de cookies fue interceptado.
+2025-06-14 14:20:20,293 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:20,496 - INFO - 🔁 Capítulo existente: 764 - actualizando si está incompleto
+2025-06-14 14:20:20,512 - INFO - 🔊 Generando audio para: chapter_764.mp3
+2025-06-14 14:20:30,151 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:30,151 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 14:20:31,437 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 14:20:31,452 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:35,111 - INFO - 📖 Novela encontrada: Unfathomablesenior
+2025-06-14 14:20:35,820 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:39,128 - INFO - ✅ Audio subido exitosamente: chapter_764.mp3
+2025-06-14 14:20:39,251 - INFO - ✅ Capítulo actualizado: 764
+2025-06-14 14:20:40,197 - WARNING - ⚠️ El botón de cookies fue interceptado.
+2025-06-14 14:20:40,198 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:40,386 - INFO - 🔁 Capítulo existente: 764 - actualizando si está incompleto
+2025-06-14 14:20:40,639 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:41,669 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:49,596 - WARNING - ⚠️ El botón de cookies fue interceptado.
+2025-06-14 14:20:49,596 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:49,778 - INFO - 🔁 Capítulo existente: 764 - actualizando si está incompleto
+2025-06-14 14:20:49,956 - WARNING - ⚠️ El botón de cookies fue interceptado.
+2025-06-14 14:20:49,956 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:50,140 - INFO - 🔁 Capítulo existente: 764 - actualizando si está incompleto
+2025-06-14 14:20:50,709 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:51,514 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:58,992 - WARNING - ⚠️ El botón de cookies fue interceptado.
+2025-06-14 14:20:58,992 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:20:59,174 - INFO - 🔁 Capítulo existente: 764 - actualizando si está incompleto
+2025-06-14 14:20:59,949 - WARNING - ⚠️ El botón de cookies fue interceptado.
+2025-06-14 14:20:59,949 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:21:00,128 - INFO - 🔁 Capítulo existente: 764 - actualizando si está incompleto
+2025-06-14 14:21:00,644 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:21:00,806 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:21:07,789 - WARNING - ⚠️ El botón de cookies fue interceptado.
+2025-06-14 14:21:07,789 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:21:07,955 - INFO - 🔁 Capítulo existente: 764 - actualizando si está incompleto
+2025-06-14 14:21:09,380 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:21:09,454 - WARNING - ⚠️ El botón de cookies fue interceptado.
+2025-06-14 14:21:09,454 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:21:09,665 - INFO - 🔁 Capítulo existente: 764 - actualizando si está incompleto
+2025-06-14 14:21:10,350 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-14 14:21:13,161 - ERROR - ❌ Error procesando novela https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff70de66f65+78965]
+	GetHandleVerifier [0x0x7ff70de66fc0+79056]
+	(No symbol) [0x0x7ff70dbf9dda]
+	(No symbol) [0x0x7ff70dbe5bc5]
+	(No symbol) [0x0x7ff70dc0ac04]
+	(No symbol) [0x0x7ff70dc80195]
+	(No symbol) [0x0x7ff70dca06cd]
+	(No symbol) [0x0x7ff70dc78443]
+	(No symbol) [0x0x7ff70dc41311]
+	(No symbol) [0x0x7ff70dc420a3]
+	GetHandleVerifier [0x0x7ff70e11e26d+2926461]
+	GetHandleVerifier [0x0x7ff70e118993+2903715]
+	GetHandleVerifier [0x0x7ff70e136aed+3026941]
+	GetHandleVerifier [0x0x7ff70de816fe+187406]
+	GetHandleVerifier [0x0x7ff70de896ef+220159]
+	GetHandleVerifier [0x0x7ff70de6faf4+114692]
+	GetHandleVerifier [0x0x7ff70de6fca9+115129]
+	GetHandleVerifier [0x0x7ff70de564d8+10728]
+	BaseThreadInitThunk [0x0x7ffc111b259d+29]
+	RtlUserThreadStart [0x0x7ffc1346af78+40]
+
+2025-06-14 14:21:14,647 - ERROR - ❌ Error procesando novela https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff70de66f65+78965]
+	GetHandleVerifier [0x0x7ff70de66fc0+79056]
+	(No symbol) [0x0x7ff70dbf9dda]
+	(No symbol) [0x0x7ff70dbe5bc5]
+	(No symbol) [0x0x7ff70dc0ac04]
+	(No symbol) [0x0x7ff70dc80195]
+	(No symbol) [0x0x7ff70dca06cd]
+	(No symbol) [0x0x7ff70dc78443]
+	(No symbol) [0x0x7ff70dc41311]
+	(No symbol) [0x0x7ff70dc420a3]
+	GetHandleVerifier [0x0x7ff70e11e26d+2926461]
+	GetHandleVerifier [0x0x7ff70e118993+2903715]
+	GetHandleVerifier [0x0x7ff70e136aed+3026941]
+	GetHandleVerifier [0x0x7ff70de816fe+187406]
+	GetHandleVerifier [0x0x7ff70de896ef+220159]
+	GetHandleVerifier [0x0x7ff70de6faf4+114692]
+	GetHandleVerifier [0x0x7ff70de6fca9+115129]
+	GetHandleVerifier [0x0x7ff70de564d8+10728]
+	BaseThreadInitThunk [0x0x7ffc111b259d+29]
+	RtlUserThreadStart [0x0x7ffc1346af78+40]
+
+2025-06-14 14:26:30,705 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-14 14:28:49,499 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-14 14:28:49,499 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 14:28:50,806 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 14:28:50,806 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-14 14:28:54,213 - INFO - 📖 Novela encontrada: Unfathomablesenior
+2025-06-14 14:28:54,597 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-14 14:28:59,162 - WARNING - ⚠️ El botón de cookies fue interceptado.
+2025-06-14 14:28:59,162 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-14 14:28:59,398 - INFO - 🔁 Capítulo existente: 765 - actualizando si está incompleto
+2025-06-14 14:28:59,398 - INFO - 🔊 Generando audio para: chapter_765.mp3
+2025-06-14 14:29:09,387 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-14 14:29:09,387 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 14:29:10,668 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 14:29:10,668 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-14 14:29:14,224 - INFO - 📖 Novela encontrada: Unfathomablesenior
+2025-06-14 14:29:14,854 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-14 14:29:17,693 - INFO - ✅ Audio subido exitosamente: chapter_765.mp3
+2025-06-14 14:29:17,806 - INFO - ✅ Capítulo actualizado: 765
+2025-06-14 14:29:19,358 - WARNING - ⚠️ El botón de cookies fue interceptado.
+2025-06-14 14:29:19,358 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-14 14:29:19,547 - INFO - 🔁 Capítulo existente: 765 - actualizando si está incompleto
+2025-06-14 14:36:27,661 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-14 14:40:35,773 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
+2025-06-14 15:04:19,187 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/120730/ashari-blood-and-oath/chapter/2355987/chapter-1-kaelen
+2025-06-14 15:04:19,202 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 15:04:20,429 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 15:04:20,429 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/120730/ashari-blood-and-oath/chapter/2355987/chapter-1-kaelen
+2025-06-14 15:04:24,252 - INFO - 📖 Novela encontrada: Asharibloodandoath
+2025-06-14 15:04:24,911 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/120730/ashari-blood-and-oath/chapter/2355987/chapter-1-kaelen
+2025-06-14 15:04:31,615 - WARNING - ⚠️ El botón de cookies fue interceptado.
+2025-06-14 15:04:31,615 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/120730/ashari-blood-and-oath/chapter/2355987/chapter-1-kaelen
+2025-06-14 15:04:31,819 - INFO - 🔁 Capítulo existente: 1717 - actualizando si está incompleto
+2025-06-14 15:04:31,819 - INFO - 🔊 Generando audio para: chapter_1717.mp3
+2025-06-14 15:04:39,241 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/120730/ashari-blood-and-oath/chapter/2355987/chapter-1-kaelen
+2025-06-14 15:04:39,241 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 15:04:40,469 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 15:04:40,469 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/120730/ashari-blood-and-oath/chapter/2355987/chapter-1-kaelen
+2025-06-14 15:04:44,186 - INFO - 📖 Novela encontrada: Asharibloodandoath
+2025-06-14 15:04:44,619 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/120730/ashari-blood-and-oath/chapter/2355987/chapter-1-kaelen
+2025-06-14 15:04:51,514 - WARNING - ⚠️ El botón de cookies fue interceptado.
+2025-06-14 15:04:51,514 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/120730/ashari-blood-and-oath/chapter/2355987/chapter-1-kaelen
+2025-06-14 15:04:51,717 - INFO - 🔁 Capítulo existente: 1717 - actualizando si está incompleto
+2025-06-14 15:04:51,717 - INFO - 🔊 Generando audio para: chapter_1717.mp3
+2025-06-14 15:05:00,226 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_1717.mp3'
+2025-06-14 15:05:00,352 - INFO - ✅ Capítulo actualizado: 1717
+2025-06-14 15:05:25,834 - INFO - ✅ Audio subido exitosamente: chapter_1717.mp3
+2025-06-14 15:05:25,960 - INFO - ✅ Capítulo actualizado: 1717
+2025-06-14 15:11:52,064 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-14 15:12:55,696 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-14 15:13:36,256 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-14 15:13:59,442 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-14 15:14:10,428 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-14 15:14:20,374 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-14 15:15:51,354 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427921/chapter-3
+2025-06-14 15:15:51,354 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 15:15:52,633 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 15:15:52,633 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427921/chapter-3
+2025-06-14 15:15:55,431 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427921/chapter-3
+2025-06-14 15:16:00,803 - INFO - ✅ Banner de cookies cerrado.
+2025-06-14 15:16:01,007 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427921/chapter-3
+2025-06-14 15:16:02,149 - INFO - 🔁 Capítulo existente: 766 - actualizando si está incompleto
+2025-06-14 15:16:02,166 - INFO - 🔊 Generando audio para: chapter_766.mp3
+2025-06-14 15:16:11,283 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427921/chapter-3
+2025-06-14 15:16:11,283 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 15:16:12,538 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 15:16:12,538 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427921/chapter-3
+2025-06-14 15:16:15,778 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427921/chapter-3
+2025-06-14 15:16:19,524 - INFO - ✅ Banner de cookies cerrado.
+2025-06-14 15:16:19,725 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427921/chapter-3
+2025-06-14 15:16:20,882 - INFO - 🔁 Capítulo existente: 766 - actualizando si está incompleto
+2025-06-14 15:16:20,884 - INFO - 🔊 Generando audio para: chapter_766.mp3
+2025-06-14 15:16:30,779 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_766.mp3'
+2025-06-14 15:16:30,903 - INFO - ✅ Capítulo actualizado: 766
+2025-06-14 15:16:44,524 - INFO - ✅ Audio subido exitosamente: chapter_766.mp3
+2025-06-14 15:16:44,655 - INFO - ✅ Capítulo actualizado: 766
+2025-06-14 15:23:34,384 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/120726/finding-you-a-soldiers-life/chapter/2355968/assigned-to-the-humanitarian-wing
+2025-06-14 15:23:34,384 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 15:23:35,657 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 15:23:35,657 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/120726/finding-you-a-soldiers-life/chapter/2355968/assigned-to-the-humanitarian-wing
+2025-06-14 15:23:38,364 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/120726/finding-you-a-soldiers-life/chapter/2355968/assigned-to-the-humanitarian-wing
+2025-06-14 15:23:52,371 - INFO - ✅ Banner de cookies cerrado.
+2025-06-14 15:23:52,574 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/120726/finding-you-a-soldiers-life/chapter/2355968/assigned-to-the-humanitarian-wing
+2025-06-14 15:23:53,712 - INFO - 🔁 Capítulo existente: 1718 - actualizando si está incompleto
+2025-06-14 15:23:53,712 - INFO - 🔊 Generando audio para: chapter_1718.mp3
+2025-06-14 15:23:54,353 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/120726/finding-you-a-soldiers-life/chapter/2355968/assigned-to-the-humanitarian-wing
+2025-06-14 15:23:54,353 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 15:23:55,683 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 15:23:55,683 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/120726/finding-you-a-soldiers-life/chapter/2355968/assigned-to-the-humanitarian-wing
+2025-06-14 15:23:58,713 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/120726/finding-you-a-soldiers-life/chapter/2355968/assigned-to-the-humanitarian-wing
+2025-06-14 15:24:11,033 - INFO - ✅ Banner de cookies cerrado.
+2025-06-14 15:24:11,240 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/120726/finding-you-a-soldiers-life/chapter/2355968/assigned-to-the-humanitarian-wing
+2025-06-14 15:24:12,352 - INFO - 🔁 Capítulo existente: 1718 - actualizando si está incompleto
+2025-06-14 15:24:12,367 - INFO - 🔊 Generando audio para: chapter_1718.mp3
+2025-06-14 15:25:20,455 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_1718.mp3'
+2025-06-14 15:25:20,693 - INFO - ✅ Capítulo actualizado: 1718
+2025-06-14 15:25:38,094 - INFO - ✅ Audio subido exitosamente: chapter_1718.mp3
+2025-06-14 15:25:38,326 - INFO - ✅ Capítulo actualizado: 1718
+2025-06-14 15:49:58,132 - INFO - D:\PRUEBAS\drf-scrapping\api\serializer.py changed, reloading.
+2025-06-14 15:50:04,832 - INFO - D:\PRUEBAS\drf-scrapping\api\serializer.py changed, reloading.
+2025-06-14 15:50:14,581 - INFO - D:\PRUEBAS\drf-scrapping\api\serializer.py changed, reloading.
+2025-06-14 18:51:13,056 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/120753/re-the-systems-harvester/chapter/2356553/chapter-1-color
+2025-06-14 18:51:13,056 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 18:51:14,446 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 18:51:14,446 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/120753/re-the-systems-harvester/chapter/2356553/chapter-1-color
+2025-06-14 18:51:17,047 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/120753/re-the-systems-harvester/chapter/2356553/chapter-1-color
+2025-06-14 18:51:22,732 - INFO - ✅ Banner de cookies cerrado.
+2025-06-14 18:51:22,936 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/120753/re-the-systems-harvester/chapter/2356553/chapter-1-color
+2025-06-14 18:51:24,142 - INFO - 🔁 Capítulo existente: 1719 - actualizando si está incompleto
+2025-06-14 18:51:24,144 - INFO - 🔊 Generando audio para: chapter_1719.mp3
+2025-06-14 18:51:31,786 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/120753/re-the-systems-harvester/chapter/2356553/chapter-1-color
+2025-06-14 18:51:31,786 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-14 18:51:33,096 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-14 18:51:33,096 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/120753/re-the-systems-harvester/chapter/2356553/chapter-1-color
+2025-06-14 18:51:36,404 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/120753/re-the-systems-harvester/chapter/2356553/chapter-1-color
+2025-06-14 18:51:41,092 - INFO - ✅ Banner de cookies cerrado.
+2025-06-14 18:51:41,295 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/120753/re-the-systems-harvester/chapter/2356553/chapter-1-color
+2025-06-14 18:51:43,303 - INFO - 🔁 Capítulo existente: 1719 - actualizando si está incompleto
+2025-06-14 18:51:43,303 - INFO - 🔊 Generando audio para: chapter_1719.mp3
+2025-06-14 18:51:58,096 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_1719.mp3'
+2025-06-14 18:51:58,224 - INFO - ✅ Capítulo actualizado: 1719
+2025-06-14 18:52:36,220 - INFO - ✅ Audio subido exitosamente: chapter_1719.mp3
+2025-06-14 18:52:36,338 - INFO - ✅ Capítulo actualizado: 1719
+2025-06-15 14:08:27,834 - WARNING - Not Found: /api/novels/undefined/
+2025-06-15 14:08:29,234 - WARNING - Not Found: /api/novels/undefined/
+2025-06-15 14:08:31,649 - WARNING - Not Found: /api/novels/undefined/
+2025-06-15 14:08:42,057 - WARNING - Not Found: /api/novels/undefined/
+2025-06-15 14:08:42,066 - WARNING - Not Found: /api/novels/undefined/
+2025-06-15 14:31:14,250 - WARNING - Not Found: /api/novels/undefined/
+2025-06-15 14:31:17,151 - WARNING - Not Found: /api/novels/undefined/
+2025-06-15 14:31:17,158 - WARNING - Not Found: /api/novels/undefined/

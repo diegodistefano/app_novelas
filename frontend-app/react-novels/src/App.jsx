@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import axios from "axios";
+import './index.css';
 import {BrowserRouter, Route, Routes} from 'react-router'; 
 import {Toaster} from 'react-hot-toast';
 import Header from './components/Header';
