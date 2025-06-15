@@ -68,7 +68,7 @@ export default function ChapterAudio() {
     if (currentIndex < chaptersList.length - 1) {
       const nextChapter = chaptersList[currentIndex + 1];
       navigate(`/novels/${novelId}/chapters/${nextChapter.id}`);
-      setIsPlaying(false); // Reset play state for new chapter
+      setIsPlaying(false);
     }
   };
 
@@ -79,7 +79,7 @@ export default function ChapterAudio() {
     if (currentIndex > 0) {
       const prevChapter = chaptersList[currentIndex - 1];
       navigate(`/novels/${novelId}/chapters/${prevChapter.id}`);
-      setIsPlaying(false); // Reset play state for new chapter
+      setIsPlaying(false); 
     }
   };
 

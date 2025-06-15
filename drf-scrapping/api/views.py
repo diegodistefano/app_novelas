@@ -64,23 +64,16 @@ def scrap_novel_view(request):
 
 @api_view(['GET'])
 def get_or_create_chapter(request, novel_id, chapter_id):
-    # Buscar el capítulo correspondiente
     chapter = get_object_or_404(Chapter, pk=chapter_id, novel_id=novel_id)
 
-    # Si ya tiene audio, simplemente devolvémoslo
     if chapter.audio_url:
         serializer = ChapterSerializer(chapter)
         return Response(serializer.data)
-
-    # Si no tiene audio_url, generarlo usando main.py
     if not chapter.chapter_url:
         return Response({"error": "Capítulo sin URL para procesar."}, status=400)
 
     try:
-        # Ruta al script Python (relativa a BASE_DIR)
         script_path = os.path.join(settings.BASE_DIR, "scrap", "main.py")
-
-        # Ejecutar el script de forma sincrónica
         result = subprocess.run(
             [python_path, script_path, chapter.chapter_url],
             check=True,
@@ -90,8 +83,6 @@ def get_or_create_chapter(request, novel_id, chapter_id):
         print("✅ Audio generado")
         print("STDOUT:", result.stdout)
         print("STDERR:", result.stderr)
-
-        # Recargar capítulo para ver si se actualizó el audio_url
         chapter.refresh_from_db()
 
     except subprocess.CalledProcessError as e:
@@ -103,27 +94,6 @@ def get_or_create_chapter(request, novel_id, chapter_id):
     serializer = ChapterSerializer(chapter)
     return Response(serializer.data)
 
-
-    
-
 @ensure_csrf_cookie
 def get_csrf_token(request):
     return JsonResponse({'detail': 'CSRF cookie set'})
-
-
-# @api_view(['GET'])
-# @permission_classes([IsAuthenticated])
-# def user_favorites(request):
-#     novels = Novel.objects.filter(favorited_by__user=request.user)
-#     serializer = NovelSerializer(novels, many=True)
-#     return Response(serializer.data)
-
-# @api_view(['POST'])
-# @permission_classes([IsAuthenticated])
-# def toggle_favorite(request, novel_id):
-#     novel = get_object_or_404(Novel, id=novel_id)
-#     favorite, created = Favorite.objects.get_or_create(user=request.user, novel=novel)
-#     if not created:
-#         favorite.delete()
-#         return Response({'favorito': False})    
-#     return Response({'favorito': True})

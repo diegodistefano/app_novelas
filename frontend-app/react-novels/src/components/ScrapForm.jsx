@@ -34,8 +34,8 @@ export default function ScrapForm() {
 
 
   return (
-    <div className="p-6 max-w-lg mx-auto bg-white rounded-xl shadow-md space-y-4">
-      <h2 className="text-xl font-bold text-cyan-800">Ingresar URL de la novela</h2>
+    <div className="m-10 p-6 max-w-lg bg-cyan-900 rounded-xl shadow-md space-y-4">
+      <h2 className="text-xl font-bold text-cyan-400">Ingresar URL de la novela</h2>
       
       <form id="scrap-form" onSubmit={handleSubmit} className="flex flex-col gap-4">
         <input

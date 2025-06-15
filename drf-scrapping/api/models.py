@@ -55,7 +55,7 @@ class Favorite(models.Model):
     novel = models.ForeignKey('Novel', on_delete=models.CASCADE, related_name='favorited_by')
 
     class Meta:
-        unique_together = ('user', 'novel')  # Evita duplicados
+        unique_together = ('user', 'novel') 
 
     def __str__(self):
         return f"{self.user.username} ♥ {self.novel.name}"
