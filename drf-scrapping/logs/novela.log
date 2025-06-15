@@ -505,3 +505,27 @@ Stacktrace:
 2025-06-15 14:31:14,250 - WARNING - Not Found: /api/novels/undefined/
 2025-06-15 14:31:17,151 - WARNING - Not Found: /api/novels/undefined/
 2025-06-15 14:31:17,158 - WARNING - Not Found: /api/novels/undefined/
+2025-06-15 15:55:58,651 - INFO - D:\PRUEBAS\drf-scrapping\drf\settings.py changed, reloading.
+2025-06-15 16:43:16,990 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-15 17:04:45,135 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427922/chapter-4
+2025-06-15 17:04:45,135 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-15 17:04:46,458 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-15 17:04:46,458 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427922/chapter-4
+2025-06-15 17:04:49,210 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427922/chapter-4
+2025-06-15 17:04:53,170 - INFO - ✅ Banner de cookies cerrado.
+2025-06-15 17:04:53,374 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427922/chapter-4
+2025-06-15 17:04:54,535 - INFO - 🔁 Capítulo existente: 767 - actualizando si está incompleto
+2025-06-15 17:04:54,536 - INFO - 🔊 Generando audio para: chapter_767.mp3
+2025-06-15 17:05:16,161 - INFO - ✅ Audio subido exitosamente: chapter_767.mp3
+2025-06-15 17:05:16,286 - INFO - ✅ Capítulo actualizado: 767
+2025-06-15 17:09:42,769 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427923/chapter-5
+2025-06-15 17:09:42,769 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-15 17:09:44,049 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-15 17:09:44,049 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427923/chapter-5
+2025-06-15 17:09:46,864 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427923/chapter-5
+2025-06-15 17:09:50,346 - INFO - ✅ Banner de cookies cerrado.
+2025-06-15 17:09:50,547 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427923/chapter-5
+2025-06-15 17:09:51,689 - INFO - 🔁 Capítulo existente: 768 - actualizando si está incompleto
+2025-06-15 17:09:51,692 - INFO - 🔊 Generando audio para: chapter_768.mp3
+2025-06-15 17:10:13,189 - INFO - ✅ Audio subido exitosamente: chapter_768.mp3
+2025-06-15 17:10:13,312 - INFO - ✅ Capítulo actualizado: 768
