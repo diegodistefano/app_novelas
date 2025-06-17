@@ -9,6 +9,7 @@ import ChaptersList from './components/ChaptersList';
 import ScrapForm from './components/ScrapForm';
 import ChapterAudio from "./components/ChapterAudio";
 
+
 function App() {
 
   useEffect(() => {
@@ -17,10 +18,10 @@ function App() {
  
   return (
     <BrowserRouter>
-      <div className='container mx-auto'>
+      <div className='container mx-auto pt-12'>
         <Header />
         <Routes>
-          <Route path="/novels/" element={<NovelsList />} />
+          <Route path="/" element={<NovelsList />} />
           <Route path="/scrap/" element={<ScrapForm />} />
           <Route path="/novels/:id/" element={<ChaptersList />} />
           <Route path="/novels/:novelId/chapters/:chapterId" element={<ChapterAudio />} />

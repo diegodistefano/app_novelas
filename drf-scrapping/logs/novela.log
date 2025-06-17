@@ -1,0 +1,164 @@
+2025-06-16 19:39:32,824 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/430727/chapter-18
+2025-06-16 19:39:32,824 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-16 19:39:34,906 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-16 19:39:39,480 - INFO - ✅ Banner de cookies cerrado.
+2025-06-16 19:39:39,681 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/430727/chapter-18
+2025-06-16 19:39:40,824 - INFO - 🔁 Capítulo existente: 781 - actualizando si está incompleto
+2025-06-16 19:39:40,826 - INFO - 🔊 Generando audio para: chapter_781.mp3
+2025-06-16 19:40:04,466 - INFO - ✅ Audio subido exitosamente: chapter_781.mp3
+2025-06-16 19:40:04,638 - INFO - ✅ Capítulo actualizado: 781
+2025-06-16 19:40:05,986 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/430954/chapter-19
+2025-06-16 19:40:08,279 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/430954/chapter-19
+2025-06-16 19:40:08,774 - INFO - 🔁 Capítulo existente: 782 - actualizando si está incompleto
+2025-06-16 19:40:08,775 - INFO - 🔊 Generando audio para: chapter_782.mp3
+2025-06-16 19:40:15,166 - INFO - ✅ Audio subido exitosamente: chapter_782.mp3
+2025-06-16 19:40:15,287 - INFO - ✅ Capítulo actualizado: 782
+2025-06-16 19:40:17,574 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-16 20:15:23,072 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:15:32,042 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:16:12,082 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:23:46,995 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:23:59,043 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:24:04,512 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:24:08,998 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:24:14,527 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:25:33,404 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:25:37,838 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:25:42,454 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:25:50,019 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:25:55,969 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:26:31,240 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:27:17,496 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:27:21,818 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:27:57,998 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:28:03,565 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:28:07,891 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:28:39,797 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:28:56,373 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:29:01,193 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:29:05,654 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:29:12,145 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:35:51,497 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:35:56,434 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:36:01,478 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:36:11,416 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:36:16,883 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:37:18,736 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:38:04,736 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:40:56,792 - INFO - D:\PRUEBAS\drf-scrapping\api\serializer.py changed, reloading.
+2025-06-16 20:41:05,503 - INFO - D:\PRUEBAS\drf-scrapping\api\serializer.py changed, reloading.
+2025-06-16 20:58:09,710 - WARNING - Not Found: /api/novels/undefined/
+2025-06-16 20:58:09,717 - WARNING - Not Found: /api/novels/undefined/
+2025-06-16 21:06:47,524 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-16 21:06:47,524 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-16 21:06:48,835 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-16 21:06:55,045 - INFO - ✅ Banner de cookies cerrado.
+2025-06-16 21:06:55,246 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-16 21:06:56,541 - INFO - 🔁 Capítulo existente: 1720 - actualizando si está incompleto
+2025-06-16 21:06:56,542 - INFO - 🔊 Generando audio para: chapter_1720.mp3
+2025-06-16 21:07:07,417 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-16 21:07:07,418 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-16 21:07:08,738 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-16 21:07:14,621 - INFO - ✅ Banner de cookies cerrado.
+2025-06-16 21:07:14,822 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-16 21:07:16,141 - INFO - 🔁 Capítulo existente: 1720 - actualizando si está incompleto
+2025-06-16 21:07:16,143 - INFO - 🔊 Generando audio para: chapter_1720.mp3
+2025-06-16 21:07:32,511 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_1720.mp3'
+2025-06-16 21:07:32,749 - INFO - ✅ Capítulo actualizado: 1720
+2025-06-16 21:07:34,225 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-16 21:07:37,157 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-16 21:07:37,556 - INFO - 🔁 Capítulo existente: 1721 - actualizando si está incompleto
+2025-06-16 21:07:37,556 - INFO - 🔊 Generando audio para: chapter_1721.mp3
+2025-06-16 21:08:29,400 - INFO - ✅ Audio subido exitosamente: chapter_1721.mp3
+2025-06-16 21:08:29,523 - INFO - ✅ Capítulo actualizado: 1721
+2025-06-16 21:08:32,015 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-16 21:09:57,693 - INFO - ✅ Audio subido exitosamente: chapter_1720.mp3
+2025-06-16 21:09:57,936 - INFO - ✅ Capítulo actualizado: 1720
+2025-06-16 21:09:59,429 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-16 21:10:02,944 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-16 21:10:03,390 - INFO - 🔁 Capítulo existente: 1721 - actualizando si está incompleto
+2025-06-16 21:10:05,742 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-16 21:22:41,696 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 21:25:25,627 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 21:25:47,639 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 21:25:57,408 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 22:15:04,192 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764031/chapter-3-hype-man
+2025-06-16 22:15:04,192 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-16 22:15:05,429 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-16 22:15:11,490 - INFO - ✅ Banner de cookies cerrado.
+2025-06-16 22:15:11,690 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764031/chapter-3-hype-man
+2025-06-16 22:15:12,995 - INFO - 🔁 Capítulo existente: 1722 - actualizando si está incompleto
+2025-06-16 22:15:12,996 - INFO - 🔊 Generando audio para: chapter_1722.mp3
+2025-06-16 22:16:06,416 - INFO - ✅ Audio subido exitosamente: chapter_1722.mp3
+2025-06-16 22:16:06,657 - INFO - ✅ Capítulo actualizado: 1722
+2025-06-16 22:16:07,998 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764038/chapter-4-escape-room
+2025-06-16 22:16:11,305 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764038/chapter-4-escape-room
+2025-06-16 22:16:11,643 - INFO - 🔁 Capítulo existente: 1723 - actualizando si está incompleto
+2025-06-16 22:16:11,644 - INFO - 🔊 Generando audio para: chapter_1723.mp3
+2025-06-16 22:16:51,375 - INFO - ✅ Audio subido exitosamente: chapter_1723.mp3
+2025-06-16 22:16:51,496 - INFO - ✅ Capítulo actualizado: 1723
+2025-06-16 22:16:53,971 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-17 17:28:19,672 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-17 17:28:24,733 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-17 17:28:29,243 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-17 22:19:27,613 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-17 22:19:27,613 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-17 22:19:29,925 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-17 22:19:36,095 - INFO - ✅ Banner de cookies cerrado.
+2025-06-17 22:19:36,296 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-17 22:19:37,669 - INFO - 🔁 Capítulo existente: 783 - actualizando si está incompleto
+2025-06-17 22:19:37,672 - INFO - 🔊 Generando audio para: chapter_783.mp3
+2025-06-17 22:19:47,306 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-17 22:19:47,306 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-17 22:19:48,646 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-17 22:19:55,583 - INFO - ✅ Banner de cookies cerrado.
+2025-06-17 22:19:55,784 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-17 22:19:57,125 - INFO - 🔁 Capítulo existente: 783 - actualizando si está incompleto
+2025-06-17 22:19:57,126 - INFO - 🔊 Generando audio para: chapter_783.mp3
+2025-06-17 22:21:01,310 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_783.mp3'
+2025-06-17 22:21:01,546 - INFO - ✅ Capítulo actualizado: 783
+2025-06-17 22:21:03,247 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-17 22:21:06,676 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-17 22:21:07,422 - INFO - 🔁 Capítulo existente: 784 - actualizando si está incompleto
+2025-06-17 22:21:07,422 - INFO - 🔊 Generando audio para: chapter_784.mp3
+2025-06-17 22:21:19,636 - INFO - ✅ Audio subido exitosamente: chapter_783.mp3
+2025-06-17 22:21:19,864 - INFO - ✅ Capítulo actualizado: 783
+2025-06-17 22:21:21,281 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-17 22:21:24,553 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-17 22:21:24,844 - INFO - 🔁 Capítulo existente: 784 - actualizando si está incompleto
+2025-06-17 22:21:24,845 - INFO - 🔊 Generando audio para: chapter_784.mp3
+2025-06-17 22:21:48,512 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_784.mp3'
+2025-06-17 22:21:48,627 - INFO - ✅ Capítulo actualizado: 784
+2025-06-17 22:21:51,077 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-17 22:22:26,942 - INFO - ✅ Audio subido exitosamente: chapter_784.mp3
+2025-06-17 22:22:27,061 - INFO - ✅ Capítulo actualizado: 784
+2025-06-17 22:22:29,398 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-17 22:24:19,602 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-17 22:24:19,602 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-17 22:24:20,886 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-17 22:24:25,809 - INFO - ✅ Banner de cookies cerrado.
+2025-06-17 22:24:26,009 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-17 22:24:27,183 - INFO - 🔁 Capítulo existente: 1 - actualizando si está incompleto
+2025-06-17 22:24:27,184 - INFO - 🔊 Generando audio para: chapter_1.mp3
+2025-06-17 22:24:39,728 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-17 22:24:39,728 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-17 22:24:41,072 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-17 22:24:45,814 - INFO - ✅ Banner de cookies cerrado.
+2025-06-17 22:24:46,015 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-17 22:24:47,158 - INFO - 🔁 Capítulo existente: 1 - actualizando si está incompleto
+2025-06-17 22:24:47,158 - INFO - 🔊 Generando audio para: chapter_1.mp3
+2025-06-17 22:24:55,350 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_1.mp3'
+2025-06-17 22:24:55,462 - INFO - ✅ Capítulo actualizado: 1
+2025-06-17 22:24:56,833 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-17 22:24:59,753 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-17 22:25:00,188 - INFO - 🔁 Capítulo existente: 2 - actualizando si está incompleto
+2025-06-17 22:25:00,189 - INFO - 🔊 Generando audio para: chapter_2.mp3
+2025-06-17 22:25:03,779 - INFO - ✅ Audio subido exitosamente: chapter_1.mp3
+2025-06-17 22:25:03,900 - INFO - ✅ Capítulo actualizado: 1
+2025-06-17 22:25:04,653 - INFO - ✅ Audio subido exitosamente: chapter_2.mp3
+2025-06-17 22:25:04,771 - INFO - ✅ Capítulo actualizado: 2
+2025-06-17 22:25:05,117 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-17 22:25:07,057 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-17 22:25:07,339 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-17 22:25:07,714 - INFO - 🔁 Capítulo existente: 2 - actualizando si está incompleto
+2025-06-17 22:25:10,072 - INFO - ✅ Proceso completado - Driver cerrado

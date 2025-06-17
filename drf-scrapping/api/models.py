@@ -30,6 +30,7 @@ class Novel(models.Model):
     genders = models.ManyToManyField(Gender, related_name='novels')
     novel_url = models.URLField(unique=True, default='')
     novel_downloaded = models.BooleanField(default=False)
+    synopsis = models.TextField(blank=True, default="Sinopsis en preparación...")
     image_url = models.URLField(
     default="https://storage.googleapis.com/audionovelas-bucket/generic_novel.jpg")
 

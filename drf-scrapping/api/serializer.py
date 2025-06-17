@@ -11,5 +11,5 @@ class NovelSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Novel
-        fields = ['id', 'name', 'chapter_count', 'status', 'chapters', 'image_url']
+        fields = ['id', 'name', 'chapter_count', 'status', 'chapters', 'synopsis', 'image_url']
         read_only_fields = ['chapter_count'] 
