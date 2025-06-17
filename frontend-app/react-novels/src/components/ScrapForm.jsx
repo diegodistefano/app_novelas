@@ -15,13 +15,10 @@ export default function ScrapForm() {
       setStatus("Procesando...");
 
       try {
-        // Limpiar la url almacenada en el estado (no el DOM directamente)
         let valor = url.replace(/https:\/\/www\.royalroad\.com/gi, "").trim();
 
-        // Opcional: actualizar el input con el valor limpio
         setUrl(valor);
 
-        // Usar el valor limpio para enviar la petición
         const response = await postScrapeURL(valor);
 
         setStatus(response.data.msg || "Scraping completado");
