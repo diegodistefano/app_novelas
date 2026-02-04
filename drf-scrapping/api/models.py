@@ -2,6 +2,7 @@
 from django.contrib.auth.models import User
 from django.db import models
 
+
 class Author(models.Model):
     name = models.CharField(max_length=100)
 
@@ -14,7 +15,6 @@ class Gender(models.Model):
 
     def __str__(self):
         return self.name
-
 
 class Novel(models.Model):
     NOVEL_STATUS_CHOICES = [
@@ -30,6 +30,7 @@ class Novel(models.Model):
     genders = models.ManyToManyField(Gender, related_name='novels')
     novel_url = models.URLField(unique=True, default='')
     novel_downloaded = models.BooleanField(default=False)
+    synopsis = models.TextField(blank=True, default="Sinopsis en preparación...")
     image_url = models.URLField(
     default="https://storage.googleapis.com/audionovelas-bucket/generic_novel.jpg")
 
@@ -55,7 +56,7 @@ class Favorite(models.Model):
     novel = models.ForeignKey('Novel', on_delete=models.CASCADE, related_name='favorited_by')
 
     class Meta:
-        unique_together = ('user', 'novel')  # Evita duplicados
+        unique_together = ('user', 'novel') 
 
     def __str__(self):
         return f"{self.user.username} ♥ {self.novel.name}"

@@ -1,1 +1,24 @@
 @import "tailwindcss";
+
+body {
+  background-color: #04161b;
+  color: white;
+  font-family:'Courier New', Courier, monospace
+}
+
+@keyframes spinYInterval {
+  0% {
+    transform: rotateY(0deg);
+  }
+  30% {
+    transform: rotateY(360deg);
+  }
+  100% {
+    transform: rotateY(360deg);
+  }
+}
+
+.animate-spinY {
+  animation: spinYInterval 10s ease-in-out infinite;
+  transform-style: preserve-3d;
+}

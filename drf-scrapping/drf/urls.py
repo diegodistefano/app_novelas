@@ -17,11 +17,14 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework.documentation import include_docs_urls
-from api.views import search_novel_views
+from api.views import search_novel_views, scrap_novel_view, get_csrf_token
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('api.urls')),
     path('api/search-novels/', search_novel_views),
+    path("api/scrap/", scrap_novel_view, name="scrap-novel"),
+    path("api/csrf/", get_csrf_token, name="get-csrf"), 
     path('docs/', include_docs_urls(title='Api Documentation'))
 ]

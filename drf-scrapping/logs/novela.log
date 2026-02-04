@@ -1,71 +1,1013 @@
-2025-06-07 18:16:09,871 - INFO - Configurando Chrome con traducción (Intento 1/3)...
-2025-06-07 18:16:11,127 - INFO - ✅ Chrome con traducción configurado exitosamente
-2025-06-07 18:16:11,128 - INFO - 📚 Driver creado con éxito: https://www.royalroad.com/fiction/119692/gods-cats-and-lizards/chapter/2337593/001-zephyros-the-betrayed-warden
-2025-06-07 18:16:14,885 - INFO - 📖 Novela encontrada: Godscatsandlizards
-2025-06-07 18:16:15,229 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/119692/gods-cats-and-lizards/chapter/2337593/001-zephyros-the-betrayed-warden
-2025-06-07 18:16:21,149 - WARNING - ⚠️ El botón de cookies fue interceptado.
-2025-06-07 18:16:21,149 - INFO - 📖 Procesando capítulo: https://www.royalroad.com/fiction/119692/gods-cats-and-lizards/chapter/2337593/001-zephyros-the-betrayed-warden
-2025-06-07 18:16:21,429 - INFO - 📝 Capítulo guardado en la base de datos: 1 - 001 - Zephyros, el guardián traicionado
-2025-06-07 18:16:21,431 - INFO - 🔊 Generando audio para: chapter_1.mp3
-2025-06-07 18:16:58,028 - INFO - ✅ Audio subido exitosamente: chapter_1.mp3
-2025-06-07 18:16:58,137 - INFO - 🎧 Audio asociado al capítulo: 1
-2025-06-07 18:17:02,482 - INFO - 📚 Procesando novela: https://www.royalroad.com/fiction/119692/gods-cats-and-lizards/chapter/2337771/002-bebox-kalymoon-the-sky-druid
-2025-06-07 18:17:08,187 - INFO - ℹ️ No se encontró banner de cookies.
-2025-06-07 18:17:08,188 - INFO - 📖 Procesando capítulo: https://www.royalroad.com/fiction/119692/gods-cats-and-lizards/chapter/2337771/002-bebox-kalymoon-the-sky-druid
-2025-06-07 18:17:08,414 - INFO - 📝 Capítulo guardado en la base de datos: 2 - 002 - Bebox Kalymoon, la druida del cielo
-2025-06-07 18:17:08,414 - INFO - 🔊 Generando audio para: chapter_2.mp3
-2025-06-07 18:18:19,268 - INFO - ✅ Audio subido exitosamente: chapter_2.mp3
-2025-06-07 18:18:19,400 - INFO - 🎧 Audio asociado al capítulo: 2
-2025-06-07 18:18:20,356 - ERROR - ❌ Error al avanzar al siguiente capítulo: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div/div[2]/div[2]/div[1]/div[2]/a"}
-  (Session info: chrome=137.0.7151.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-	GetHandleVerifier [0x0x7ff6f9946f65+78965]
-	GetHandleVerifier [0x0x7ff6f9946fc0+79056]
-	(No symbol) [0x0x7ff6f96d9dda]
-	(No symbol) [0x0x7ff6f97302ea]
-	(No symbol) [0x0x7ff6f973059c]
-	(No symbol) [0x0x7ff6f9783f37]
-	(No symbol) [0x0x7ff6f97586af]
-	(No symbol) [0x0x7ff6f9780dbe]
-	(No symbol) [0x0x7ff6f9758443]
-	(No symbol) [0x0x7ff6f9721311]
-	(No symbol) [0x0x7ff6f97220a3]
-	GetHandleVerifier [0x0x7ff6f9bfe26d+2926461]
-	GetHandleVerifier [0x0x7ff6f9bf8993+2903715]
-	GetHandleVerifier [0x0x7ff6f9c16aed+3026941]
-	GetHandleVerifier [0x0x7ff6f99616fe+187406]
-	GetHandleVerifier [0x0x7ff6f99696ef+220159]
-	GetHandleVerifier [0x0x7ff6f994faf4+114692]
-	GetHandleVerifier [0x0x7ff6f994fca9+115129]
-	GetHandleVerifier [0x0x7ff6f99364d8+10728]
-	BaseThreadInitThunk [0x0x7ffda163259d+29]
-	RtlUserThreadStart [0x0x7ffda2b2af78+40]
+2025-06-16 19:39:32,824 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/430727/chapter-18
+2025-06-16 19:39:32,824 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-16 19:39:34,906 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-16 19:39:39,480 - INFO - ✅ Banner de cookies cerrado.
+2025-06-16 19:39:39,681 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/430727/chapter-18
+2025-06-16 19:39:40,824 - INFO - 🔁 Capítulo existente: 781 - actualizando si está incompleto
+2025-06-16 19:39:40,826 - INFO - 🔊 Generando audio para: chapter_781.mp3
+2025-06-16 19:40:04,466 - INFO - ✅ Audio subido exitosamente: chapter_781.mp3
+2025-06-16 19:40:04,638 - INFO - ✅ Capítulo actualizado: 781
+2025-06-16 19:40:05,986 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/430954/chapter-19
+2025-06-16 19:40:08,279 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/430954/chapter-19
+2025-06-16 19:40:08,774 - INFO - 🔁 Capítulo existente: 782 - actualizando si está incompleto
+2025-06-16 19:40:08,775 - INFO - 🔊 Generando audio para: chapter_782.mp3
+2025-06-16 19:40:15,166 - INFO - ✅ Audio subido exitosamente: chapter_782.mp3
+2025-06-16 19:40:15,287 - INFO - ✅ Capítulo actualizado: 782
+2025-06-16 19:40:17,574 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-16 20:15:23,072 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:15:32,042 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:16:12,082 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:23:46,995 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:23:59,043 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:24:04,512 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:24:08,998 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:24:14,527 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
+2025-06-16 20:25:33,404 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:25:37,838 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:25:42,454 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:25:50,019 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:25:55,969 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:26:31,240 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:27:17,496 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:27:21,818 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:27:57,998 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:28:03,565 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:28:07,891 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:28:39,797 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:28:56,373 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:29:01,193 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:29:05,654 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:29:12,145 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:35:51,497 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:35:56,434 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:36:01,478 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:36:11,416 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:36:16,883 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:37:18,736 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:38:04,736 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 20:40:56,792 - INFO - D:\PRUEBAS\drf-scrapping\api\serializer.py changed, reloading.
+2025-06-16 20:41:05,503 - INFO - D:\PRUEBAS\drf-scrapping\api\serializer.py changed, reloading.
+2025-06-16 20:58:09,710 - WARNING - Not Found: /api/novels/undefined/
+2025-06-16 20:58:09,717 - WARNING - Not Found: /api/novels/undefined/
+2025-06-16 21:06:47,524 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-16 21:06:47,524 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-16 21:06:48,835 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-16 21:06:55,045 - INFO - ✅ Banner de cookies cerrado.
+2025-06-16 21:06:55,246 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-16 21:06:56,541 - INFO - 🔁 Capítulo existente: 1720 - actualizando si está incompleto
+2025-06-16 21:06:56,542 - INFO - 🔊 Generando audio para: chapter_1720.mp3
+2025-06-16 21:07:07,417 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-16 21:07:07,418 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-16 21:07:08,738 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-16 21:07:14,621 - INFO - ✅ Banner de cookies cerrado.
+2025-06-16 21:07:14,822 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-16 21:07:16,141 - INFO - 🔁 Capítulo existente: 1720 - actualizando si está incompleto
+2025-06-16 21:07:16,143 - INFO - 🔊 Generando audio para: chapter_1720.mp3
+2025-06-16 21:07:32,511 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_1720.mp3'
+2025-06-16 21:07:32,749 - INFO - ✅ Capítulo actualizado: 1720
+2025-06-16 21:07:34,225 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-16 21:07:37,157 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-16 21:07:37,556 - INFO - 🔁 Capítulo existente: 1721 - actualizando si está incompleto
+2025-06-16 21:07:37,556 - INFO - 🔊 Generando audio para: chapter_1721.mp3
+2025-06-16 21:08:29,400 - INFO - ✅ Audio subido exitosamente: chapter_1721.mp3
+2025-06-16 21:08:29,523 - INFO - ✅ Capítulo actualizado: 1721
+2025-06-16 21:08:32,015 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-16 21:09:57,693 - INFO - ✅ Audio subido exitosamente: chapter_1720.mp3
+2025-06-16 21:09:57,936 - INFO - ✅ Capítulo actualizado: 1720
+2025-06-16 21:09:59,429 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-16 21:10:02,944 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-16 21:10:03,390 - INFO - 🔁 Capítulo existente: 1721 - actualizando si está incompleto
+2025-06-16 21:10:05,742 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-16 21:22:41,696 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 21:25:25,627 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 21:25:47,639 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 21:25:57,408 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-16 22:15:04,192 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764031/chapter-3-hype-man
+2025-06-16 22:15:04,192 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-16 22:15:05,429 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-16 22:15:11,490 - INFO - ✅ Banner de cookies cerrado.
+2025-06-16 22:15:11,690 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764031/chapter-3-hype-man
+2025-06-16 22:15:12,995 - INFO - 🔁 Capítulo existente: 1722 - actualizando si está incompleto
+2025-06-16 22:15:12,996 - INFO - 🔊 Generando audio para: chapter_1722.mp3
+2025-06-16 22:16:06,416 - INFO - ✅ Audio subido exitosamente: chapter_1722.mp3
+2025-06-16 22:16:06,657 - INFO - ✅ Capítulo actualizado: 1722
+2025-06-16 22:16:07,998 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764038/chapter-4-escape-room
+2025-06-16 22:16:11,305 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764038/chapter-4-escape-room
+2025-06-16 22:16:11,643 - INFO - 🔁 Capítulo existente: 1723 - actualizando si está incompleto
+2025-06-16 22:16:11,644 - INFO - 🔊 Generando audio para: chapter_1723.mp3
+2025-06-16 22:16:51,375 - INFO - ✅ Audio subido exitosamente: chapter_1723.mp3
+2025-06-16 22:16:51,496 - INFO - ✅ Capítulo actualizado: 1723
+2025-06-16 22:16:53,971 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-17 17:28:19,672 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-17 17:28:24,733 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-17 17:28:29,243 - INFO - D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py changed, reloading.
+2025-06-17 22:19:27,613 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-17 22:19:27,613 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-17 22:19:29,925 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-17 22:19:36,095 - INFO - ✅ Banner de cookies cerrado.
+2025-06-17 22:19:36,296 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-17 22:19:37,669 - INFO - 🔁 Capítulo existente: 783 - actualizando si está incompleto
+2025-06-17 22:19:37,672 - INFO - 🔊 Generando audio para: chapter_783.mp3
+2025-06-17 22:19:47,306 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-17 22:19:47,306 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-17 22:19:48,646 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-17 22:19:55,583 - INFO - ✅ Banner de cookies cerrado.
+2025-06-17 22:19:55,784 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1763714/chapter-1-he-who-has-no-class
+2025-06-17 22:19:57,125 - INFO - 🔁 Capítulo existente: 783 - actualizando si está incompleto
+2025-06-17 22:19:57,126 - INFO - 🔊 Generando audio para: chapter_783.mp3
+2025-06-17 22:21:01,310 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_783.mp3'
+2025-06-17 22:21:01,546 - INFO - ✅ Capítulo actualizado: 783
+2025-06-17 22:21:03,247 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-17 22:21:06,676 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-17 22:21:07,422 - INFO - 🔁 Capítulo existente: 784 - actualizando si está incompleto
+2025-06-17 22:21:07,422 - INFO - 🔊 Generando audio para: chapter_784.mp3
+2025-06-17 22:21:19,636 - INFO - ✅ Audio subido exitosamente: chapter_783.mp3
+2025-06-17 22:21:19,864 - INFO - ✅ Capítulo actualizado: 783
+2025-06-17 22:21:21,281 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-17 22:21:24,553 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/92144/the-legend-of-william-oh/chapter/1764028/chapter-2-life-goals
+2025-06-17 22:21:24,844 - INFO - 🔁 Capítulo existente: 784 - actualizando si está incompleto
+2025-06-17 22:21:24,845 - INFO - 🔊 Generando audio para: chapter_784.mp3
+2025-06-17 22:21:48,512 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_784.mp3'
+2025-06-17 22:21:48,627 - INFO - ✅ Capítulo actualizado: 784
+2025-06-17 22:21:51,077 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-17 22:22:26,942 - INFO - ✅ Audio subido exitosamente: chapter_784.mp3
+2025-06-17 22:22:27,061 - INFO - ✅ Capítulo actualizado: 784
+2025-06-17 22:22:29,398 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-17 22:24:19,602 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-17 22:24:19,602 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-17 22:24:20,886 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-17 22:24:25,809 - INFO - ✅ Banner de cookies cerrado.
+2025-06-17 22:24:26,009 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-17 22:24:27,183 - INFO - 🔁 Capítulo existente: 1 - actualizando si está incompleto
+2025-06-17 22:24:27,184 - INFO - 🔊 Generando audio para: chapter_1.mp3
+2025-06-17 22:24:39,728 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-17 22:24:39,728 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-17 22:24:41,072 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-17 22:24:45,814 - INFO - ✅ Banner de cookies cerrado.
+2025-06-17 22:24:46,015 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427894/chapter-1
+2025-06-17 22:24:47,158 - INFO - 🔁 Capítulo existente: 1 - actualizando si está incompleto
+2025-06-17 22:24:47,158 - INFO - 🔊 Generando audio para: chapter_1.mp3
+2025-06-17 22:24:55,350 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_1.mp3'
+2025-06-17 22:24:55,462 - INFO - ✅ Capítulo actualizado: 1
+2025-06-17 22:24:56,833 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-17 22:24:59,753 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-17 22:25:00,188 - INFO - 🔁 Capítulo existente: 2 - actualizando si está incompleto
+2025-06-17 22:25:00,189 - INFO - 🔊 Generando audio para: chapter_2.mp3
+2025-06-17 22:25:03,779 - INFO - ✅ Audio subido exitosamente: chapter_1.mp3
+2025-06-17 22:25:03,900 - INFO - ✅ Capítulo actualizado: 1
+2025-06-17 22:25:04,653 - INFO - ✅ Audio subido exitosamente: chapter_2.mp3
+2025-06-17 22:25:04,771 - INFO - ✅ Capítulo actualizado: 2
+2025-06-17 22:25:05,117 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-17 22:25:07,057 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427920/chapter-2
+2025-06-17 22:25:07,339 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-17 22:25:07,714 - INFO - 🔁 Capítulo existente: 2 - actualizando si está incompleto
+2025-06-17 22:25:10,072 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-18 19:50:56,477 - ERROR - Error al traducir con Argos Translate
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
 
-2025-06-07 18:18:20,356 - INFO - 🛑 No hay más capítulos disponibles.
-2025-06-08 20:25:02,701 - INFO - D:\PRUEBAS\drf-scrapping\api\models.py changed, reloading.
-2025-06-08 20:41:15,794 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
-2025-06-08 20:54:09,311 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-08 20:54:46,790 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-08 20:54:53,192 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-08 21:00:36,109 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:00:36,117 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:00:47,069 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:00:47,076 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:06:21,126 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:06:21,134 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:06:30,052 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:06:30,059 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:09:28,926 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:09:28,934 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:09:40,671 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:09:40,678 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:13:42,747 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:13:42,754 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:13:48,958 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:13:48,966 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:14:08,353 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:14:08,363 - WARNING - Not Found: /api/novels/:id/chapters/
-2025-06-08 21:21:45,224 - ERROR - Internal Server Error: /api/novels/
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1037, in send
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000023A13793110>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A13793110>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py", line 26, in translate_to_spanish
+    response = requests.post(url, data=payload, timeout=10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A13793110>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-06-18 19:51:03,663 - ERROR - Error al traducir con Argos Translate
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1037, in send
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000023A1354D460>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A1354D460>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py", line 26, in translate_to_spanish
+    response = requests.post(url, data=payload, timeout=10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A1354D460>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-06-18 19:51:08,206 - ERROR - Error al traducir con Argos Translate
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1037, in send
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000023A1354E450>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A1354E450>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py", line 26, in translate_to_spanish
+    response = requests.post(url, data=payload, timeout=10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A1354E450>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-06-18 19:51:12,749 - ERROR - Error al traducir con Argos Translate
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1037, in send
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000023A1354FC50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A1354FC50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py", line 26, in translate_to_spanish
+    response = requests.post(url, data=payload, timeout=10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A1354FC50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-06-18 19:51:17,292 - ERROR - Error al traducir con Argos Translate
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1037, in send
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000023A1354DE50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A1354DE50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py", line 26, in translate_to_spanish
+    response = requests.post(url, data=payload, timeout=10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A1354DE50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-06-18 19:51:21,847 - ERROR - Error al traducir con Argos Translate
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1037, in send
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000023A1354FEC0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A1354FEC0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py", line 26, in translate_to_spanish
+    response = requests.post(url, data=payload, timeout=10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A1354FEC0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-06-18 19:51:26,387 - ERROR - Error al traducir con Argos Translate
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1037, in send
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000023A1354F050>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A1354F050>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py", line 26, in translate_to_spanish
+    response = requests.post(url, data=payload, timeout=10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A1354F050>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-06-18 19:54:44,309 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427921/chapter-3
+2025-06-18 19:54:44,309 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-18 19:54:46,801 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-18 19:54:52,273 - INFO - ✅ Banner de cookies cerrado.
+2025-06-18 19:54:52,475 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427921/chapter-3
+2025-06-18 19:54:53,569 - INFO - 🔁 Capítulo existente: 3 - actualizando si está incompleto
+2025-06-18 19:54:53,571 - INFO - 🔊 Generando audio para: chapter_3.mp3
+2025-06-18 19:55:00,625 - INFO - ✅ Audio subido exitosamente: chapter_3.mp3
+2025-06-18 19:55:00,761 - INFO - ✅ Capítulo actualizado: 3
+2025-06-18 19:55:02,540 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427922/chapter-4
+2025-06-18 19:55:05,156 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427922/chapter-4
+2025-06-18 19:55:05,846 - INFO - 🔁 Capítulo existente: 4 - actualizando si está incompleto
+2025-06-18 19:55:05,846 - INFO - 🔊 Generando audio para: chapter_4.mp3
+2025-06-18 19:55:33,293 - INFO - ✅ Audio subido exitosamente: chapter_4.mp3
+2025-06-18 19:55:33,413 - INFO - ✅ Capítulo actualizado: 4
+2025-06-18 19:55:35,864 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-18 20:00:08,510 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-18 20:01:11,276 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427923/chapter-5
+2025-06-18 20:01:11,277 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-06-18 20:01:12,717 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-06-18 20:01:16,899 - INFO - ✅ Banner de cookies cerrado.
+2025-06-18 20:01:17,100 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427923/chapter-5
+2025-06-18 20:01:18,299 - INFO - 🔁 Capítulo existente: 5 - actualizando si está incompleto
+2025-06-18 20:01:18,302 - INFO - 🔊 Generando audio para: chapter_5.mp3
+2025-06-18 20:01:37,226 - INFO - ✅ Audio subido exitosamente: chapter_5.mp3
+2025-06-18 20:01:37,347 - INFO - ✅ Capítulo actualizado: 5
+2025-06-18 20:01:39,179 - INFO - 🔜 Procesando siguiente capítulo: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427924/chapter-6
+2025-06-18 20:01:41,506 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/28578/unfathomable-senior/chapter/427924/chapter-6
+2025-06-18 20:01:41,689 - INFO - 🔁 Capítulo existente: 6 - actualizando si está incompleto
+2025-06-18 20:01:41,690 - INFO - 🔊 Generando audio para: chapter_6.mp3
+2025-06-18 20:02:00,869 - INFO - ✅ Audio subido exitosamente: chapter_6.mp3
+2025-06-18 20:02:00,985 - INFO - ✅ Capítulo actualizado: 6
+2025-06-18 20:02:03,685 - INFO - ✅ Proceso completado - Driver cerrado
+2025-06-18 20:04:37,652 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-19 13:32:23,741 - INFO - D:\PRUEBAS\drf-scrapping\scrap\main.py changed, reloading.
+2025-06-25 19:43:54,379 - ERROR - Internal Server Error: /api/novels/1/chapters/2/audio/
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\api\views.py", line 67, in get_or_create_chapter
+    chapter = get_object_or_404(Chapter, pk=chapter_id, novel_id=novel_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\shortcuts.py", line 90, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 629, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 366, in __len__
+    self._fetch_all()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 1945, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1621, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 320, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 296, in _cursor
+    self.ensure_connection()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 278, in ensure_connection
+    with self.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-06-25 19:44:57,526 - ERROR - Internal Server Error: /api/novels/1/
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\generics.py", line 100, in get_object
+    obj = get_object_or_404(queryset, **filter_kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\generics.py", line 19, in get_object_or_404
+    return _get_object_or_404(queryset, *filter_args, **filter_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\shortcuts.py", line 90, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 629, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 366, in __len__
+    self._fetch_all()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 1945, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1621, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 320, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 296, in _cursor
+    self.ensure_connection()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 278, in ensure_connection
+    with self.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-06-25 19:44:59,434 - ERROR - Internal Server Error: /api/novels/1/
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\generics.py", line 100, in get_object
+    obj = get_object_or_404(queryset, **filter_kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\generics.py", line 19, in get_object_or_404
+    return _get_object_or_404(queryset, *filter_args, **filter_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\shortcuts.py", line 90, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 629, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 366, in __len__
+    self._fetch_all()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 1945, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1621, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 320, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 296, in _cursor
+    self.ensure_connection()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 278, in ensure_connection
+    with self.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-06-25 19:45:18,520 - ERROR - Internal Server Error: /api/novels/1/chapters/
 Traceback (most recent call last):
   File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
     self.connect()
@@ -172,175 +1114,241 @@ Traceback (most recent call last):
 django.db.utils.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
 	Is the server running on that host and accepting TCP/IP connections?
 
-2025-06-09 18:59:55,799 - WARNING - Not Found: /
-2025-06-09 18:59:56,047 - WARNING - Not Found: /favicon.ico
-2025-06-09 19:00:13,554 - WARNING - Not Found: /api//novels
-2025-06-09 19:33:58,959 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 19:33:58,961 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 19:34:17,683 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 19:34:17,698 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 19:34:41,555 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 19:34:41,575 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 19:34:56,256 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 19:34:56,265 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:05:40,769 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:05:40,780 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:07:00,252 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:07:04,565 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:07:05,731 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:08:22,232 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:08:22,245 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:08:31,182 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:08:31,189 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:09:17,880 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:09:17,887 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:09:40,523 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:09:40,533 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:10:56,208 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:17:34,168 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:17:34,177 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:17:45,987 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:17:45,997 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:18:01,017 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:18:01,029 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:29:43,308 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:29:43,319 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:29:55,221 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:29:55,231 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:31:26,857 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:31:26,857 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:31:31,208 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:31:31,211 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:31:36,380 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:31:36,392 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:31:59,065 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:32:03,529 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:32:03,545 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:33:10,728 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:33:13,425 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:33:13,440 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:35:44,661 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:35:44,669 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:39:24,738 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:39:24,747 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:41:18,815 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:41:18,824 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:41:24,936 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:41:24,944 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:51:25,963 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:51:25,972 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 20:58:28,316 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 21:00:35,529 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:00:35,541 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:00:43,780 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:00:43,791 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:01:14,999 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:01:15,010 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:01:18,707 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:01:18,724 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:03:16,340 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:03:16,349 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:03:28,890 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:03:28,902 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:03:29,881 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:03:29,890 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:03:30,822 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:03:30,834 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:03:32,136 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:03:32,148 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:04:20,521 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:04:20,534 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:04:31,295 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:04:31,304 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:05:48,243 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:05:48,252 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:05:53,038 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:05:53,048 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:06:20,027 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:06:20,027 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:06:23,452 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:06:23,462 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:06:24,164 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:06:24,181 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:06:24,852 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:06:24,865 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:07:13,121 - INFO - D:\PRUEBAS\drf-scrapping\api\urls.py changed, reloading.
-2025-06-09 21:07:32,199 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:07:32,212 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:07:34,735 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:07:34,744 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:07:45,685 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:07:45,689 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:07:46,625 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:07:46,636 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:07:47,275 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:07:47,296 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:07:47,720 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:07:47,736 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:12:53,313 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 21:12:57,759 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 21:13:03,364 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 21:13:08,850 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 21:13:15,498 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 21:13:19,868 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 21:13:32,700 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:13:32,719 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:13:33,888 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:13:33,895 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:13:35,038 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:13:35,049 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:13:35,785 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:13:35,795 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:13:43,300 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 21:13:54,337 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 21:14:01,708 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:14:01,724 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:14:12,637 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:14:12,647 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:14:21,113 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 21:15:15,051 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 21:15:35,481 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:15:35,493 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:16:23,643 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 21:17:06,995 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:17:07,005 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:17:07,987 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:17:07,996 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:17:14,219 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:17:14,229 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:20:36,920 - INFO - D:\PRUEBAS\drf-scrapping\api\urls.py changed, reloading.
-2025-06-09 21:21:03,565 - INFO - D:\PRUEBAS\drf-scrapping\api\urls.py changed, reloading.
-2025-06-09 21:21:08,115 - INFO - D:\PRUEBAS\drf-scrapping\api\urls.py changed, reloading.
-2025-06-09 21:21:20,192 - INFO - D:\PRUEBAS\drf-scrapping\api\urls.py changed, reloading.
-2025-06-09 21:21:28,949 - INFO - D:\PRUEBAS\drf-scrapping\api\urls.py changed, reloading.
-2025-06-09 21:21:42,289 - INFO - D:\PRUEBAS\drf-scrapping\api\urls.py changed, reloading.
-2025-06-09 21:32:43,935 - WARNING - Not Found: /api/novels/
-2025-06-09 21:32:43,949 - WARNING - Not Found: /api/novels/
-2025-06-09 21:36:29,195 - WARNING - Not Found: /api/novels/
-2025-06-09 21:36:29,205 - WARNING - Not Found: /api/novels/
-2025-06-09 21:38:30,077 - WARNING - Not Found: /api/novels/
-2025-06-09 21:38:30,084 - WARNING - Not Found: /api/novels/
-2025-06-09 21:39:33,787 - WARNING - Not Found: /api/novels/
-2025-06-09 21:39:33,796 - WARNING - Not Found: /api/novels/
-2025-06-09 21:39:41,167 - WARNING - Not Found: /api/novels/
-2025-06-09 21:39:41,176 - WARNING - Not Found: /api/novels/
-2025-06-09 21:40:18,349 - WARNING - Not Found: /
-2025-06-09 21:40:23,441 - WARNING - Not Found: /api/
-2025-06-09 21:40:31,210 - WARNING - Not Found: /api/novels/
-2025-06-09 21:40:48,180 - INFO - D:\PRUEBAS\drf-scrapping\api\urls.py changed, reloading.
-2025-06-09 21:42:17,257 - INFO - D:\PRUEBAS\drf-scrapping\api\urls.py changed, reloading.
-2025-06-09 21:43:12,733 - WARNING - Not Found: /api/novels/1/chapters
-2025-06-09 21:43:17,960 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:43:22,148 - WARNING - Not Found: /api/novels/1/chapters/1/
-2025-06-09 21:58:57,065 - WARNING - Not Found: /api/novels/4/chapters/
-2025-06-09 21:59:36,794 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 21:59:36,804 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 22:00:06,645 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 22:01:37,242 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 22:01:44,060 - WARNING - Not Found: /api/novels/1/chapters/
-2025-06-09 22:05:04,430 - INFO - D:\PRUEBAS\drf-scrapping\api\urls.py changed, reloading.
-2025-06-09 22:05:11,632 - WARNING - Not Found: /
-2025-06-09 22:05:38,890 - ERROR - Internal Server Error: /api/novels/1/chapters/
+2025-07-20 12:43:21,444 - ERROR - Error al traducir con Argos Translate
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1037, in send
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001C4C2653410>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C4C2653410>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py", line 26, in translate_to_spanish
+    response = requests.post(url, data=payload, timeout=10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C4C2653410>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-07-20 12:43:28,585 - ERROR - Error al traducir con Argos Translate
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1037, in send
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001C4C2676510>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C4C2676510>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\scrap\scrap_chapters_list.py", line 26, in translate_to_spanish
+    response = requests.post(url, data=payload, timeout=10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /translate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C4C2676510>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-07-20 12:43:48,087 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/125512/the-last-archmage/chapter/2451002/chapter-1-how-low-can-one-go
+2025-07-20 12:43:48,087 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-07-20 12:43:51,078 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-07-20 12:43:54,988 - INFO - ✅ Banner de cookies cerrado.
+2025-07-20 12:43:55,189 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/125512/the-last-archmage/chapter/2451002/chapter-1-how-low-can-one-go
+2025-07-20 12:43:56,345 - INFO - 🔁 Capítulo existente: 1125 - actualizando si está incompleto
+2025-07-20 12:43:56,345 - INFO - 🔊 Generando audio para: chapter_1125.mp3
+2025-07-20 12:44:07,780 - INFO - 🚀 Iniciando procesamiento de novela en: https://www.royalroad.com/fiction/125512/the-last-archmage/chapter/2451002/chapter-1-how-low-can-one-go
+2025-07-20 12:44:07,780 - INFO - Configurando Chrome con traducción (Intento 1/3)...
+2025-07-20 12:44:09,067 - INFO - ✅ Chrome con traducción configurado exitosamente
+2025-07-20 12:44:13,218 - INFO - ✅ Banner de cookies cerrado.
+2025-07-20 12:44:13,419 - INFO - 🚀 Iniciando procesamiento de capítulo en: https://www.royalroad.com/fiction/125512/the-last-archmage/chapter/2451002/chapter-1-how-low-can-one-go
+2025-07-20 12:44:14,582 - INFO - 🔁 Capítulo existente: 1125 - actualizando si está incompleto
+2025-07-20 12:44:14,583 - INFO - 🔊 Generando audio para: chapter_1125.mp3
+2025-07-20 12:44:25,008 - ERROR - ❌ Error al generar audio: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\Usuario\\AppData\\Local\\Temp\\drf_scrapping_audio\\chapter_1125.mp3'
+2025-07-20 12:44:25,124 - INFO - ✅ Capítulo actualizado: 1125
+2025-07-20 12:44:25,455 - ERROR - ❌ Error al avanzar al siguiente capítulo: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div/div[2]/div[2]/div[1]/div[2]/a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7153c6f65+78965]
+	GetHandleVerifier [0x0x7ff7153c6fc0+79056]
+	(No symbol) [0x0x7ff715159dda]
+	(No symbol) [0x0x7ff7151b02ea]
+	(No symbol) [0x0x7ff7151b059c]
+	(No symbol) [0x0x7ff715203f37]
+	(No symbol) [0x0x7ff7151d86af]
+	(No symbol) [0x0x7ff715200dbe]
+	(No symbol) [0x0x7ff7151d8443]
+	(No symbol) [0x0x7ff7151a1311]
+	(No symbol) [0x0x7ff7151a20a3]
+	GetHandleVerifier [0x0x7ff71567e26d+2926461]
+	GetHandleVerifier [0x0x7ff715678993+2903715]
+	GetHandleVerifier [0x0x7ff715696aed+3026941]
+	GetHandleVerifier [0x0x7ff7153e16fe+187406]
+	GetHandleVerifier [0x0x7ff7153e96ef+220159]
+	GetHandleVerifier [0x0x7ff7153cfaf4+114692]
+	GetHandleVerifier [0x0x7ff7153cfca9+115129]
+	GetHandleVerifier [0x0x7ff7153b64d8+10728]
+	BaseThreadInitThunk [0x0x7ffdc178259d+29]
+	RtlUserThreadStart [0x0x7ffdc2a8af78+40]
+
+2025-07-20 12:44:25,455 - INFO - 🛑 No hay más capítulos disponibles después del actual.
+2025-07-20 12:44:27,622 - INFO - ✅ Proceso completado - Driver cerrado
+2025-07-20 12:44:38,129 - INFO - ✅ Audio subido exitosamente: chapter_1125.mp3
+2025-07-20 12:44:38,248 - INFO - ✅ Capítulo actualizado: 1125
+2025-07-20 12:44:38,677 - ERROR - ❌ Error al avanzar al siguiente capítulo: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div/div[2]/div[2]/div[1]/div[2]/a"}
+  (Session info: chrome=138.0.7204.101); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7153c6f65+78965]
+	GetHandleVerifier [0x0x7ff7153c6fc0+79056]
+	(No symbol) [0x0x7ff715159dda]
+	(No symbol) [0x0x7ff7151b02ea]
+	(No symbol) [0x0x7ff7151b059c]
+	(No symbol) [0x0x7ff715203f37]
+	(No symbol) [0x0x7ff7151d86af]
+	(No symbol) [0x0x7ff715200dbe]
+	(No symbol) [0x0x7ff7151d8443]
+	(No symbol) [0x0x7ff7151a1311]
+	(No symbol) [0x0x7ff7151a20a3]
+	GetHandleVerifier [0x0x7ff71567e26d+2926461]
+	GetHandleVerifier [0x0x7ff715678993+2903715]
+	GetHandleVerifier [0x0x7ff715696aed+3026941]
+	GetHandleVerifier [0x0x7ff7153e16fe+187406]
+	GetHandleVerifier [0x0x7ff7153e96ef+220159]
+	GetHandleVerifier [0x0x7ff7153cfaf4+114692]
+	GetHandleVerifier [0x0x7ff7153cfca9+115129]
+	GetHandleVerifier [0x0x7ff7153b64d8+10728]
+	BaseThreadInitThunk [0x0x7ffdc178259d+29]
+	RtlUserThreadStart [0x0x7ffdc2a8af78+40]
+
+2025-07-20 12:44:38,677 - INFO - 🛑 No hay más capítulos disponibles después del actual.
+2025-07-20 12:44:40,845 - INFO - ✅ Proceso completado - Driver cerrado
+2025-07-22 15:52:15,849 - ERROR - Internal Server Error: /api/novels/1/
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+
+The above exception was the direct cause of the following exception:
+
 Traceback (most recent call last):
   File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
     response = get_response(request)
@@ -364,45 +1372,606 @@ Traceback (most recent call last):
   File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
     response = handler(request, *args, **kwargs)
                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
-    queryset = self.filter_queryset(self.get_queryset())
-                                    ^^^^^^^^^^^^^^^^^^^
-  File "D:\PRUEBAS\drf-scrapping\api\views.py", line 19, in get_queryset
-    return Chapter.objects.filter(novelId=novel_id)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
-    return getattr(self.get_queryset(), name)(*args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 1491, in filter
-    return self._filter_or_exclude(False, args, kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 1509, in _filter_or_exclude
-    clone._filter_or_exclude_inplace(negate, args, kwargs)
-  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 1516, in _filter_or_exclude_inplace
-    self._query.add_q(Q(*args, **kwargs))
-  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\query.py", line 1643, in add_q
-    clause, _ = self._add_q(q_object, can_reuse)
-                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\query.py", line 1675, in _add_q
-    child_clause, needed_inner = self.build_filter(
-                                 ^^^^^^^^^^^^^^^^^^
-  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\query.py", line 1523, in build_filter
-    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
-                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\query.py", line 1330, in solve_lookup_type
-    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
-                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\query.py", line 1802, in names_to_path
-    raise FieldError(
-django.core.exceptions.FieldError: Cannot resolve keyword 'novelId' into field. Choices are: audio_url, chapter_downloaded, chapter_url, id, name, novel, novel_id, number, text
-2025-06-09 22:09:37,078 - INFO - D:\PRUEBAS\drf-scrapping\api\views.py changed, reloading.
-2025-06-09 22:37:26,947 - WARNING - Not Found: /
-2025-06-09 22:37:27,082 - WARNING - Not Found: /favicon.ico
-2025-06-09 22:39:46,988 - WARNING - Not Found: /api/novels/764/chapters/undefined/
-2025-06-09 22:39:46,997 - WARNING - Not Found: /api/novels/764/chapters/undefined/
-2025-06-09 22:41:57,836 - WARNING - Not Found: /api/novels/764/chapters/undefined/
-2025-06-09 22:41:57,846 - WARNING - Not Found: /api/novels/764/chapters/undefined/
-2025-06-09 22:42:02,159 - WARNING - Not Found: /api/novels/764/chapters/undefined/
-2025-06-09 22:42:02,169 - WARNING - Not Found: /api/novels/764/chapters/undefined/
-2025-06-09 22:48:10,284 - WARNING - Not Found: /api/novels/undefined/chapters/
-2025-06-09 22:48:10,293 - WARNING - Not Found: /api/novels/undefined/chapters/
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\generics.py", line 100, in get_object
+    obj = get_object_or_404(queryset, **filter_kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\generics.py", line 19, in get_object_or_404
+    return _get_object_or_404(queryset, *filter_args, **filter_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\shortcuts.py", line 90, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 629, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 366, in __len__
+    self._fetch_all()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 1945, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1621, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 320, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 296, in _cursor
+    self.ensure_connection()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 278, in ensure_connection
+    with self.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-07-22 15:52:35,479 - ERROR - Internal Server Error: /api/novels/1/
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\generics.py", line 100, in get_object
+    obj = get_object_or_404(queryset, **filter_kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\generics.py", line 19, in get_object_or_404
+    return _get_object_or_404(queryset, *filter_args, **filter_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\shortcuts.py", line 90, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 629, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 366, in __len__
+    self._fetch_all()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 1945, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1621, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 320, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 296, in _cursor
+    self.ensure_connection()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 278, in ensure_connection
+    with self.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-07-22 15:52:36,883 - ERROR - Internal Server Error: /api/novels/1/chapters/
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+                                                   ^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 1945, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1621, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 320, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 296, in _cursor
+    self.ensure_connection()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 278, in ensure_connection
+    with self.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-07-22 15:52:56,562 - ERROR - Internal Server Error: /api/novels/1/chapters/
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+                                                   ^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 1945, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1621, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 320, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 296, in _cursor
+    self.ensure_connection()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 278, in ensure_connection
+    with self.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-07-22 20:53:31,221 - ERROR - Internal Server Error: /api/novels/1/
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\generics.py", line 100, in get_object
+    obj = get_object_or_404(queryset, **filter_kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\generics.py", line 19, in get_object_or_404
+    return _get_object_or_404(queryset, *filter_args, **filter_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\shortcuts.py", line 90, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 629, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 366, in __len__
+    self._fetch_all()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 1945, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1621, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 320, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 296, in _cursor
+    self.ensure_connection()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 278, in ensure_connection
+    with self.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-07-22 20:53:52,291 - ERROR - Internal Server Error: /api/novels/1/chapters/
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+                    ^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+                                                   ^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 1945, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1621, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 320, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 296, in _cursor
+    self.ensure_connection()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 278, in ensure_connection
+    with self.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 279, in ensure_connection
+    self.connect()
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\base\base.py", line 256, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\django\db\backends\postgresql\base.py", line 332, in get_new_connection
+    connection = self.Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PRUEBAS\drf-scrapping\venv\Lib\site-packages\psycopg2\__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: connection to server at "34.27.37.38", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
