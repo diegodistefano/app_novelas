@@ -8,7 +8,6 @@ const api = axios.create({
 export const getAllNovels = () => api.get('novels/');
 export const getNovel = (id) => api.get(`novels/${id}/`);
 export const getChaptersByNovel = (novelId) => api.get(`novels/${novelId}/chapters/`);
-// export const getChapter = (novelId, chapterId) => api.get(`novels/${novelId}/chapters/${chapterId}/`);
 export const getOrCreateChapter = (novelId, chapterId) => api.get(`novels/${novelId}/chapters/${chapterId}/audio/`);
 
 // Función para obtener el token CSRF desde la cookie del navegador
