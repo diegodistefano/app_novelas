@@ -25,14 +25,14 @@ class Novel(models.Model):
 
     name = models.CharField(max_length=200)
     chapter_count = models.IntegerField(default=0)
-    status = models.CharField(max_length=10, choices=NOVEL_STATUS_CHOICES)
+    status = models.CharField(max_length=10, choices=NOVEL_STATUS_CHOICES,
+    default='ongoing')
     authors = models.ManyToManyField(Author, related_name='novels')
     genders = models.ManyToManyField(Gender, related_name='novels')
     novel_url = models.URLField(unique=True, default='')
     novel_downloaded = models.BooleanField(default=False)
     synopsis = models.TextField(blank=True, default="Sinopsis en preparación...")
-    image_url = models.URLField(
-    default="https://storage.googleapis.com/audionovelas-bucket/generic_novel.jpg")
+    image_url = models.URLField(default="https://via.placeholder.com/150")
 
     def __str__(self):
         return self.name
@@ -43,7 +43,7 @@ class Chapter(models.Model):
     name = models.CharField(max_length=200)
     number = models.IntegerField()
     chapter_url = models.URLField(blank=True, default='')
-    text = models.TextField()
+    text = models.TextField(blank=True, default="")
     audio_url = models.URLField(blank=True, null=True)
     chapter_downloaded = models.BooleanField(default=False)
 
