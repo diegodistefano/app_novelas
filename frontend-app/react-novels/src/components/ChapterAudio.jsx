@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import ReactAudioPlayer from "react-audio-player";
 import { getOrCreateChapter, getNovel, getChaptersByNovel } from "../api/api";
 import { useParams, useNavigate } from "react-router-dom";
